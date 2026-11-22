@@ -1,0 +1,427 @@
+# SAMPLE — Full Research Report
+
+> **Source:** Google Doc "SAMPLE - Full Research Report" ([link](https://docs.google.com/document/d/1ND9DiAuGy_h8F0LgiiGBjAraSy2j2oOeNkKres_yVPM/edit?tab=t.0)), retrieved 22 Nov 2026.
+> Faithful Markdown transcription. Wording is unchanged; tables were rebuilt from the export and the embedded images were extracted to [`images/`](images/). Page breaks are shown as `---`. The untouched exports (.txt and .docx) are in [`original/`](original/).
+> For commentary on this report, see [`../notes/03-sample-report-analysis.md`](../notes/03-sample-report-analysis.md).
+
+---
+
+<!-- Title page (page 1) -->
+
+**The Effect of Structural versus Semantic Processing on Free Recall of Words in High School Students**
+
+**A Partial Replication of Craik and Tulving (1975)**
+
+[Name 1], [Name 2], [Name 3] and [Name 4]
+Block [Block]
+AT Psychology, Singapore American School
+November 2026
+Word count (Introduction to Discussion): 2,108
+
+---
+
+## Abstract
+
+This experiment partially replicated Craik and Tulving (1975) to investigate the effect of structural versus semantic processing on free recall of words, based on the Levels of Processing model. A sample of 34 high school students was recruited using opportunity sampling in an independent measures design. Participants answered yes-or-no questions about 10 words that directed attention to either appearance (structural processing) or meaning (semantic processing), then freely recalled the words for two minutes. Participants in the semantic condition (M = 5.76, SD = 1.48) recalled more words than those in the structural condition (M = 4.12, SD = 2.09). A Mann-Whitney U test indicated that this difference was significant (U = 75.5, critical value = 77, p < .01). These findings supported the hypothesis that students recall significantly more words after semantic than structural processing questions, suggesting that studying should emphasize meaning.
+
+---
+
+## The Effect of Structural versus Semantic Processing on Free Recall of Words in High School Students
+
+<!-- Introduction (no "Introduction" heading — APA repeats the title instead) -->
+
+People tend to remember information better when they think about its meaning than when they attend only to its appearance. The Levels of Processing (LOP) model of memory proposed that how well information is remembered depends on the depth at which it is processed during encoding (Craik & Lockhart, 1972, as cited in Popov et al., 2017). Shallow processing attends to superficial features of a stimulus. Structural processing focuses on physical properties, such as the color or case of a word, and phonetic processing focuses on acoustic properties, such as how a word sounds. Deep processing occurs through semantic processing, which connects a stimulus to its meaning and to prior knowledge. Craik and Lockhart argued that the deeper information is processed, the longer its trace lasts in episodic long-term memory. The model also extended the Multi-Store Model of Memory by suggesting that rehearsal is not the only route from the short-term store to the long-term store, because the way information is processed during encoding also determines how well it is remembered.
+
+Craik and Tulving (1975) tested the LOP model in a laboratory experiment with a repeated measures design. Their aim was to investigate how shallow processing (structural or phonetic) and deep processing (semantic) affect the recall and recognition of words. Participants answered a yes-or-no question about each word, with the question designed to encourage structural, phonetic or semantic processing, and then saw the word for 200 milliseconds. They responded by pressing a yes button or a no button. The independent variable (IV) was the type of question, and the dependent variable (DV) was later memory for the words, tested through free recall or recognition. Words that followed semantic questions were recalled and recognized significantly better than words that followed structural or phonetic questions. For example, the mean percentage of words correctly recalled was 8% after structural questions, 9% after phonetic questions and 22% after semantic questions. These results supported the LOP model because every word was displayed for the same brief time, so the difference in memory could be attributed to the processing each question required. Semantic questions forced participants to link a word to existing knowledge, which produced deeper encoding and a more durable memory trace, as the model predicted.
+
+The present study partially replicated Craik and Tulving (1975) to test whether the effect of processing depth holds for high school students in a simplified classroom setting. Memory is central to learning, so evidence about which type of processing supports recall is relevant to both students and teachers. Three modifications were made, and each preserved the core manipulation, in which the type of question determined the depth of processing. First, an independent measures design replaced the repeated measures design (methodological control). Because each participant experienced only one type of question, order effects were removed and participants could not compare the conditions and guess the aim, which reduced demand characteristics. Second, only the structural and semantic conditions were compared, and free recall of a 10-word list replaced the longer list and the recognition task (feasibility and standardization), so that a session fitted within a class period. Third, a timed slide presentation and paper answer sheets replaced the 200-millisecond display and response buttons (construct adaptation and access), because standard classroom equipment is a feasible analogue of the specialist apparatus.
+
+### Aim
+
+To investigate the effect of structural versus semantic processing on the free recall of a 10-word list in high school students.
+
+### Independent Variable
+
+The type of processing, operationalized as the type of yes-or-no question asked about each word. In the structural processing condition, questions concerned the physical appearance of a word (e.g., "Is this word written in red?"). In the semantic processing condition, questions concerned the meaning of a word (e.g., "Is this word a body part?").
+
+### Dependent Variable
+
+The number of words recalled, operationalized as the number of the 10 words correctly written down during a two-minute free-recall task.
+
+### Research Hypothesis (H1)
+
+High school students who answer semantic processing questions about 10 words will recall significantly more of those words in a free-recall task than students who answer structural processing questions about the same words.
+
+### Null Hypothesis (H0)
+
+There will be no significant difference in the number of words recalled between students who answer semantic processing questions and students who answer structural processing questions; any difference is due to chance.
+
+## Method
+
+### Design
+
+The study was a laboratory experiment with an independent measures design, in which each participant completed only one condition, structural or semantic processing. This design controlled order effects and expectancy effects, because participants never saw the contrasting type of question and so could not infer the aim. It also allowed the same standardized word list to be used in both conditions, so differences in the words could not account for differences in recall. Its main weakness, participant variables such as individual memory ability, was addressed through random allocation: a random group generator divided the participants into two groups, and the conditions were then randomly allocated to the groups.
+
+### Participants
+
+The sample consisted of 34 high school students (20 female, 14 male) aged 16 to 17 from one international school. The target population was high school students at international schools. Opportunity sampling was used: teachers released the students in one of their classes to take part, which was convenient and quick. The structural condition included 9 female and 8 male participants, and the semantic condition included 11 female and 6 male participants. All participants reported normal color vision, because some structural questions concerned word color, and fluency in English, because all instructions and materials were in English. These characteristics ensured that color perception and language comprehension did not confound recall.
+
+Participants gave written informed consent (see Appendix C), which stated the approximate duration, that responses were confidential and anonymous, and that they could withdraw at any time, in which case their data would be destroyed. Participants were told only that the study investigated memory, which withheld the specific hypothesis about processing depth to reduce demand characteristics. They were fully debriefed afterwards (see Appendix D) and could withdraw their data or contact the researchers and their supervisor.
+
+### Materials
+
+The materials were a 10-word list, a set of 10 yes-or-no questions for each condition, a slide presentation for each condition, and a yes-or-no answer sheet (see Appendix A). The word list was generated by a random word generator (Random Word Generator, n.d.), which prevented researcher bias, and every word contained five letters, so word length could not affect recall. The slide presentations, created by the researchers, were programmed with a ringing sound and fixed slide timings so that the pace was identical for every participant.
+
+### Procedure
+
+The researchers read the standardized instructions (see Appendix B) to each group. Consent forms were collected and checked, and answer sheets were distributed. Each condition's presentation then showed 10 trials. A ringing sound signaled each new trial, the question was displayed for 8 seconds, the word was displayed for 2 seconds, and a prompt then indicated which question to answer. Participants had 8 seconds to circle yes or no on their answer sheet. After the tenth trial, the answer sheets were collected and participants were given blank paper and 2 minutes to write down as many of the words as they could remember. Participants still writing at the end of the time were allowed up to one extra minute. The recall sheets were collected, and the debriefing form and a contact sheet were given to each participant. The same procedure was then repeated with the other group and condition.
+
+## Results
+
+Recall was scored as the number of the 10 words correctly written down during the two-minute free-recall task, giving each participant a score from 0 to 10. Raw scores are presented in Appendix E.
+
+As shown in Table 1, participants in the semantic processing condition recalled more words on average than participants in the structural processing condition, a difference of 1.64 words. The standard deviation was larger in the structural processing condition, which indicates that scores in that condition were more widely spread around the mean. Scores ranged from 0 to 8 in the structural processing condition and from 3 to 8 in the semantic processing condition.
+
+**Table 1**
+*Mean and Standard Deviation of the Number of Words Recalled in Each Condition*
+
+| Condition | n | M | SD |
+|---|---|---|---|
+| Structural processing | 17 | 4.12 | 2.09 |
+| Semantic processing | 17 | 5.76 | 1.48 |
+
+*Note.* Scores could range from 0 to 10.
+
+**Figure 1**
+*Mean Number of Words Recalled in the Structural and Semantic Processing Conditions*
+
+![Bar chart of mean words recalled: structural 4.12, semantic 5.76, with error bars of one standard deviation](images/fig1-bar-chart-mean-recall.png)
+
+*Note.* Error bars show ±1 standard deviation; n = 17 per condition.
+
+Figure 1 shows that mean recall was higher in the semantic processing condition, although the error bars of the two conditions overlapped.
+
+A one-tailed Mann-Whitney U test was used because the hypothesis was directional, the design was independent measures and the data were treated as ordinal. The value calculated with an online calculator (Lowry, 1998) was U = 75.5, the critical value was 77 (N = 34, n1 = n2 = 17, p < .01), and the null hypothesis was therefore rejected. The calculations are presented in Appendix E.
+
+## Discussion
+
+The research hypothesis, that high school students who answer semantic processing questions about 10 words will recall significantly more of those words in a free-recall task than students who answer structural processing questions about the same words, was supported. Participants in the semantic processing condition recalled more words (M = 5.76, SD = 1.48) than participants in the structural processing condition (M = 4.12, SD = 2.09), and a Mann-Whitney U test showed that this difference was significant (U = 75.5, critical value = 77, N = 34, p < .01). Semantic questions required participants to connect each word to prior knowledge, whereas structural questions required attention only to its appearance, so the difference in recall is consistent with deeper encoding in the semantic condition. The structural condition also showed greater variability, including one participant who recalled no words. This score may reflect inattention or a weaker memory, and it widened the spread of that condition. The overlapping error bars show that some structural participants recalled as many words as semantic participants, so the effect describes a tendency across the groups rather than an advantage for every individual.
+
+The findings were in the same direction as those of Craik and Tulving (1975), who also found better recall after semantic than after structural questions. The size of the effect differed. Expressed as percentages of the words presented, mean recall was 41% after structural questions and 58% after semantic questions, whereas Craik and Tulving reported 8% and 22%. Overall recall was much higher in this study, probably because only 10 words were presented and each was displayed for longer. The shorter list may also have raised structural recall, which reduced the relative advantage of semantic processing. The results support the central claim of the Levels of Processing model that deeper processing produces better recall (Craik & Lockhart, 1972, as cited in Popov et al., 2017). However, only two levels were compared, so the study partly supports the model, because the full ordering of structural, phonetic and semantic processing could not be tested.
+
+Two limitations should be considered. First, the independent measures design meant that participant variables, such as individual memory ability, could have differed between the groups despite random allocation. This would reduce internal validity, because a difference in recall might partly reflect the people in each group rather than the type of processing. A matched pairs design would address this: participants would complete a short baseline recall task, be paired according to their scores, and be randomly allocated to conditions within each pair. Second, the sample came from a single school, and the participants were students in a humanities class who may have been familiar with psychology and memory experiments. They might have guessed that recall would be tested and tried harder to memorize the words, which would reduce validity, and the sample was not representative, which limited generalizability. Pre-screening participants for familiarity with memory research and randomly sampling students from several schools would reduce both problems.
+
+For this sample of 34 students aged 16 to 17, answering questions about the meaning of words led to significantly better free recall than answering questions about their appearance. Because the sample was small, drawn from one school by opportunity sampling and tested on a short, artificial task, the conclusion cannot be confidently generalized to other students or to real learning situations. The result nevertheless has a practical implication. Semantic participants recalled about 40% more words than structural participants, which suggests that students studying new vocabulary or concepts should relate them to what they already know and explain them in their own words rather than focus on how material looks, for example through color-coding. Teachers could likewise set tasks that require students to link new content to prior knowledge. Further research could add a phonetic condition, use realistic material such as paragraphs or advertisements, and test recall after a delay of a day or a week to examine long-term memory.
+
+---
+
+## References
+
+Craik, F. I. M., & Tulving, E. (1975). Depth of processing and the retention of words in episodic memory. *Journal of Experimental Psychology: General, 104*(3), 268–294. https://doi.org/10.1037/0096-3445.104.3.268
+
+Free Calculators and Convertors. (n.d.). https://www.easycalculation.com/statistics/
+
+Lowry, R. (1998). *VassarStats: Website for statistical computation*. http://vassarstats.net/
+
+Popov, A., Parker, L., & Seath, D. (2017). *Psychology course companion* (2nd ed.). Oxford University Press.
+
+Random Word Generator. (n.d.). https://randomwordgenerator.com/
+
+---
+
+## Appendix A
+**Materials**
+
+### Word List
+
+The same 10 words were used in both conditions: raise, wagon, shark, apple, study, track, beard, total, rumor, relax. They were generated with an online random word generator (Random Word Generator, n.d.), set to produce 10 words with a word length equal to 5 letters. Figure A1 shows the settings used.
+
+**Figure A1**
+*Settings Used on the Random Word Generator to Produce the Word List*
+
+![Settings Used on the Random Word Generator to Produce the Word List](images/figA1-random-word-generator-settings.png)
+
+*Note.* Screenshot from the Random Word Generator (Random Word Generator, n.d.).
+
+### Structural Processing Questions
+
+The following questions were displayed in the structural processing condition:
+
+1. Is this word written in capital letters?
+2. Is this word written in red?
+3. Is this word written in lowercase letters?
+4. Is this word written in green?
+5. Is this word written in capital letters?
+6. Is this word written in black?
+7. Is this word highlighted in yellow?
+8. Is this word written in lowercase letters?
+9. Is this word underlined?
+10. Is this word written in orange?
+
+### Semantic Processing Questions
+
+The following questions were displayed in the semantic processing condition:
+
+1. Does this word fit in this sentence: "Are you this dog's ________?"
+2. Does this word fit in this sentence: "Can I ride in your ________?"
+3. Is this word a type of animal?
+4. Is this word a type of furniture?
+5. Is this word a body part?
+6. Does this word fit in the sentence: "Are you on ________ with your studies?"
+7. Can this word be found on someone's face?
+8. Does this word fit in this sentence: "I went to the ________."
+9. Is this word a color?
+10. Is this word something you can do at a spa?
+
+### Yes/No Answer Sheet
+
+Participants circled one response for each trial on a sheet showing the following lines:
+
+1. YES / NO
+2. YES / NO
+3. YES / NO
+4. YES / NO
+5. YES / NO
+6. YES / NO
+7. YES / NO
+8. YES / NO
+9. YES / NO
+10. YES / NO
+
+---
+
+## Appendix B
+**Standardized Instructions**
+
+The following script was read verbatim to every group. Text in italics in brackets was an instruction to the researchers and was not read aloud.
+
+Good morning. Our names are [Researcher 1], [Researcher 2], [Researcher 3] and [Researcher 4], and we are conducting an experiment for our AT Psychology group project.
+
+First, we will give you an informed consent form, which you should carefully read. If you agree to participate in this study, please sign it. If you do not want to participate, please leave now. If you have any questions concerning the experiment, please do not hesitate to ask. When you are done filling out the form, please put your pens down and look up.
+
+*[Wait until everyone is done.]*
+
+We will now collect the informed consent forms.
+
+*[Collect the forms and check that nobody is color-blind or not fluent in English.]*
+
+The aim of our experiment is to investigate memory, and it should take about 10 minutes. We will now hand out sheets of paper that contain 10 yes or no answer options. Please do not write anything on them until instructed to do so.
+
+*[Hand out the answer sheets.]*
+
+This is how the experiment will proceed. First, when we start the slide presentation, a ringing sound will occur. This sound will indicate that there is a question on the screen. The question will be displayed for 8 seconds and will ask you about a word. After these 8 seconds have passed, the word in question will be displayed on the screen for 2 seconds. Once these 2 seconds pass, the screen will indicate which question you should answer on your answer sheet. You will have 8 seconds to circle a yes or no response to the question on your answer sheet. After these 8 seconds have passed, a ringing sound will occur. When you hear this ringing sound, make sure to look up at the screen, as a new question will be displayed. This process will repeat 9 additional times until all 10 questions are answered. Please remember that all of this must be completed individually and in silence.
+
+Does everyone understand the process? If you are confused, please let us know, as it is vital that everyone knows what they are supposed to be doing.
+
+*[Answer any questions if relevant.]*
+
+The first question will momentarily show up on the screen. Please remember to look up at the screen whenever you hear a ringing sound, as this will indicate the start of a new question, and circle your answers on your sheet. It is important that you complete this task on your own and in complete silence. We will now start the experiment.
+
+*[Start the presentation; the experiment takes place.]*
+
+*[The presentation is now over.]*
+
+We will now collect your answer sheet and provide you with a sheet of paper. Please remain quiet and do not write anything on it yet.
+
+*[Collect the answer sheets and hand out blank sheets of paper.]*
+
+You will now complete a free-recall test. In order to complete this task, you will have to write down as many words from the previous task as you remember. If you are unsure, please give your best guess. You will have approximately 2 minutes to complete this task. Please remember to complete this task individually and in silence. When you are done, please put down your pens, flip your papers over, look up, and remain seated and silent. Does anyone have any questions?
+
+*[Answer questions if any.]*
+
+Your time starts now.
+
+*[Start a timer for 2 minutes. If the timer rings and people are still writing, wait for a maximum of 1 minute for them to finish.]*
+
+We will now come and collect your papers and give you a debriefing form, which gives you more information about this experiment. Please remain seated and silent while you fill this out. When you are done filling it out, put your pens down and look up.
+
+*[Collect the free-recall papers and hand out the debriefing forms.]*
+
+*[Wait until everyone is or seems to be done.]*
+
+We will now collect the debriefing form and give you a slip of paper that contains our emails as well as our supervisor's email, should you wish to contact us in the near future. Thank you all for taking part in our experiment.
+
+*[Collect the debriefing forms and hand out the contact sheets.]*
+
+---
+
+## Appendix C
+**Informed Consent Form**
+
+We are performing an experiment as part of our AT Psychology group project. We are investigating memory and would like to ask you if you want to take part in our experiment. The experiment will take about 10 minutes and requires you to answer 10 yes or no questions about different words.
+
+If you agree to take part in this experiment, it is important to know that all data we obtain will be kept confidential and anonymous. You will have the right to withdraw from this experiment at any time (beginning, during, or after) for any reason. If you withdraw, your results will be destroyed. You will receive more information about the nature of the experiment after data collection is completed.
+
+Thank you,
+[Researcher 1], [Researcher 2], [Researcher 3] and [Researcher 4]
+
+I, ______________________________ understand the nature of this experiment and agree to voluntarily participate. I give the researchers permission to use my data as part of their experimental study (unless I withdraw after the experiment).
+
+Signature: ______________________________    Date: ________________
+
+Please check the following boxes if they apply to you:
+
+☐ I am not color-blind.
+☐ I am fluent in English.
+
+---
+
+## Appendix D
+**Debriefing Statements and Contact Sheet**
+
+### Debriefing Statement: Structural Processing Condition
+
+Thank you very much for taking part in our study today. We hope you found it to be an interesting experience. This experiment was a partial replication of a study by Craik and Tulving in 1975. We were investigating the Levels of Processing model of memory, which says that the deeper you process something, the better you remember it. You were in a condition where the questions you were asked regarding the words led to shallow processing. Participants in the other condition were asked questions that led to deep processing.
+
+If you found any aspect of the experiment upsetting, please let us know so we can provide details of sources of support.
+
+It is your right to withdraw your results from the experiment should you wish to do so.
+
+☐ Please tick the box if you would like us to destroy your data.
+
+If you would like to receive a copy of the results when they are available, please leave your email address here: ______________________________
+
+Thank you again,
+[Researcher 1], [Researcher 2], [Researcher 3] and [Researcher 4]
+
+### Debriefing Statement: Semantic Processing Condition
+
+Thank you very much for taking part in our study today. We hope you found it to be an interesting experience. This experiment was a partial replication of a study by Craik and Tulving in 1975. We were investigating the Levels of Processing model of memory, which says that the deeper you process something, the better you remember it. You were in a condition where the questions you were asked regarding the words led to deep processing. Participants in the other condition were asked questions that led to shallow processing.
+
+If you found any aspect of the experiment upsetting, please let us know so we can provide details of sources of support.
+
+It is your right to withdraw your results from the experiment should you wish to do so.
+
+☐ Please tick the box if you would like us to destroy your data.
+
+If you would like to receive a copy of the results when they are available, please leave your email address here: ______________________________
+
+Thank you again,
+[Researcher 1], [Researcher 2], [Researcher 3] and [Researcher 4]
+
+### Contact Sheet
+
+Please feel free to contact any one of us ([email 1], [email 2], [email 3] or [email 4]) or our supervisor ([supervisor email]) if you have any questions or concerns regarding the experiment.
+
+---
+
+## Appendix E
+**Raw Data and Calculations**
+
+### Raw Data
+
+Table E1 presents every participant's score. Participants were numbered separately within each condition.
+
+**Table E1**
+*Number of Words Recalled by Each Participant in Each Condition*
+
+| Participant | Structural processing | Semantic processing |
+|---|---|---|
+| 1 | 7 | 4 |
+| 2 | 4 | 6 |
+| 3 | 5 | 8 |
+| 4 | 5 | 8 |
+| 5 | 4 | 5 |
+| 6 | 4 | 6 |
+| 7 | 6 | 6 |
+| 8 | 5 | 5 |
+| 9 | 2 | 7 |
+| 10 | 6 | 3 |
+| 11 | 4 | 8 |
+| 12 | 8 | 4 |
+| 13 | 0 | 5 |
+| 14 | 2 | 6 |
+| 15 | 1 | 5 |
+| 16 | 3 | 7 |
+| 17 | 4 | 5 |
+| **Sum (Σx)** | **70** | **98** |
+
+### Descriptive Statistics
+
+The mean was calculated as M = Σx ÷ n. The sample standard deviation was calculated as SD = √[(Σx² − (Σx)² ÷ n) ÷ (n − 1)], with n = 17 in each condition. Table E2 shows the working.
+
+**Table E2**
+*Calculation of the Mean and Standard Deviation for Each Condition*
+
+| Step | Structural processing | Semantic processing |
+|---|---|---|
+| Σx | 70 | 98 |
+| M = Σx ÷ 17 | 4.12 | 5.76 |
+| Σx² | 358 | 600 |
+| (Σx)² ÷ 17 | 288.24 | 564.94 |
+| Variance = (Σx² − (Σx)² ÷ 17) ÷ 16 | 4.36 | 2.19 |
+| SD = √variance | 2.09 | 1.48 |
+
+Figures E1 to E4 show the means and standard deviations returned by an online calculator (Free Calculators and Convertors, n.d.) when the scores in Table E1 were entered.
+
+**Figure E1**
+*Online Calculator Output for the Mean Number of Words Recalled in the Structural Processing Condition*
+
+![Figure E1](images/figE1-calculator-mean-structural.png)
+
+*Note.* Screenshot from Free Calculators and Convertors (n.d.). The 17 structural processing scores were entered.
+
+**Figure E2**
+*Online Calculator Output for the Mean Number of Words Recalled in the Semantic Processing Condition*
+
+![Figure E2](images/figE2-calculator-mean-semantic.png)
+
+*Note.* Screenshot from Free Calculators and Convertors (n.d.). The 17 semantic processing scores were entered.
+
+**Figure E3**
+*Online Calculator Output for the Standard Deviation of the Number of Words Recalled in the Structural Processing Condition*
+
+![Figure E3](images/figE3-calculator-sd-structural.png)
+
+*Note.* Screenshot from Free Calculators and Convertors (n.d.). The sample standard deviation is labeled "Standard deviation".
+
+**Figure E4**
+*Online Calculator Output for the Standard Deviation of the Number of Words Recalled in the Semantic Processing Condition*
+
+![Figure E4](images/figE4-calculator-sd-semantic.png)
+
+*Note.* Screenshot from Free Calculators and Convertors (n.d.). The sample standard deviation is labeled "Standard deviation".
+
+### Mann-Whitney U Test
+
+All 34 scores were ranked together from lowest to highest, and tied scores were given the mean of the ranks they occupied. Condition A was the structural processing condition and Condition B was the semantic processing condition. Table E3 shows the ranking.
+
+**Table E3**
+*Ranking of the Combined Scores and Rank Sums for Each Condition*
+
+| Score | Number in A | Number in B | Ranks occupied | Mean rank | Rank sum for A | Rank sum for B |
+|---|---|---|---|---|---|---|
+| 0 | 1 | 0 | 1 | 1.0 | 1.0 | 0.0 |
+| 1 | 1 | 0 | 2 | 2.0 | 2.0 | 0.0 |
+| 2 | 2 | 0 | 3–4 | 3.5 | 7.0 | 0.0 |
+| 3 | 1 | 1 | 5–6 | 5.5 | 5.5 | 5.5 |
+| 4 | 5 | 2 | 7–13 | 10.0 | 50.0 | 20.0 |
+| 5 | 3 | 5 | 14–21 | 17.5 | 52.5 | 87.5 |
+| 6 | 2 | 4 | 22–27 | 24.5 | 49.0 | 98.0 |
+| 7 | 1 | 2 | 28–30 | 29.0 | 29.0 | 58.0 |
+| 8 | 1 | 3 | 31–34 | 32.5 | 32.5 | 97.5 |
+| **Total** | **17** | **17** | | | **228.5** | **366.5** |
+
+*Note.* R_A = 228.5 and R_B = 366.5. As a check, R_A + R_B = 595, which equals 34 × 35 ÷ 2.
+
+The U values were calculated as U = n1n2 + n(n + 1) ÷ 2 − R, with n1 = n2 = 17:
+
+- U_A = 17 × 17 + 17 × 18 ÷ 2 − 228.5 = 289 + 153 − 228.5 = 213.5
+- U_B = 289 + 153 − 366.5 = 75.5
+- Check: U_A + U_B = 289 = n1n2
+
+The observed value of U is the smaller of the two values, 75.5. For a one-tailed test at p < .01 with n1 = n2 = 17, the critical value of U is 77. The observed value is less than or equal to the critical value, so the result is significant and the null hypothesis was rejected. The same values were confirmed with an online calculator (Lowry, 1998), which gave z = −2.36 and a one-tailed probability of .0091. Figures E5 and E6 show the data entered and the output returned.
+
+**Figure E5**
+*Raw Scores Entered and Resulting Ranks in the Online Mann-Whitney U Test*
+
+![Figure E5](images/figE5-vassarstats-ranks.png)
+
+*Note.* Screenshot from VassarStats (Lowry, 1998). Sample A is the structural processing condition and Sample B is the semantic processing condition.
+
+**Figure E6**
+*Output of the Online Mann-Whitney U Test*
+
+![Figure E6](images/figE6-vassarstats-output.png)
+
+*Note.* Screenshot from VassarStats (Lowry, 1998).
