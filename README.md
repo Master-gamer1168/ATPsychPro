@@ -45,6 +45,7 @@ templates/
 study/                                    ← OUR STUDY (effort heuristic replication, Kruger et al., 2004)
   README.md                                 study profile, modifications, open issues to fix in the workbook
   workbook-completed.md                     FULL workbook pp. 2–10 filled in (group notes + data sheets)
+  project-schedule.html                     our master schedule (A/C dates, Oct 5–Dec 11), source of the Google Doc
   report-drafts/discussion.md               Discussion section draft (revised structure, ~670 words)
   workbook-transcription.md                 handwritten workbook, transcribed
   original/Choosing_a_study_workbook.pdf    workbook scan

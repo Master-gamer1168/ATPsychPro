@@ -21,7 +21,7 @@ The rating scale is **1–11** for both ratings (confirmed).
 - Sasha
 - Leon
 - Kyte ✏️ *(check spelling)*
-- ✏️ FILL IN *(4th member, if any)*
+- Leonard
 
 **The study we are replicating is (full citation needed)…**
 Kruger, J., Wirtz, D., Van Boven, L., & Altermatt, T. W. (2004). The effort heuristic. *Journal of Experimental Social Psychology, 40*(1), 91–98.
@@ -319,4 +319,4 @@ Following the revised Discussion structure ([`../sources/discussion-structure-re
 6. **Pilot n**, and whether the earlier handwritten figures were pilot data (p. 7).
 7. **Original study's condition means**, from the article, for the effect-size comparison (p. 9).
 8. **Who guessed the aim**, if the debrief recorded it, to run the planned re-analysis.
-9. **4th group member's name**, and the spelling of "Kyte" (p. 2).
+9. The spelling of "Kyte" (p. 2).
