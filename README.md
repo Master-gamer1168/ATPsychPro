@@ -17,6 +17,7 @@ Reference material for writing the **AT Psychology group-project research report
 | Plan your own report section by section | [`templates/report-skeleton.md`](templates/report-skeleton.md) |
 | Check the report before submitting | [`templates/submission-checklist.md`](templates/submission-checklist.md) |
 | Read the original documents | [`sources/`](sources/) |
+| **See our study's data and results** (effort heuristic) | [`data/effort-heuristic/`](data/effort-heuristic/): start with its README, all numbers are in [`RESULTS.md`](data/effort-heuristic/RESULTS.md) |
 
 ## Repository layout
 
@@ -37,6 +38,13 @@ notes/                                    ← study notes distilled from the sou
 templates/
   report-skeleton.md                        fill-in planner with sentence starters per section
   submission-checklist.md                   merged final checklist
+data/
+  effort-heuristic/                         ← OUR STUDY'S DATA (effort heuristic, N = 32)
+    README.md                               design, headline numbers, reporting sentences, Discussion hooks
+    RESULTS.md                              every computed metric (generated; don't hand-edit)
+    raw_data.csv                            transcribed raw data (verified against the PDF)
+    analyze.py                              regenerates RESULTS.md
+    Effort_heuristic_data_collection.pdf    original data sheets
 tools/
   stats.py                                  descriptives + Mann-Whitney U + Wilcoxon, with full working
 ```
