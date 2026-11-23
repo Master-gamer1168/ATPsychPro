@@ -174,7 +174,9 @@ Raw data and step-by-step calculations go in **Appendix E**, not here.
 
 ## 6. Discussion (600–700 words)
 
-Four paragraphs, as the guide lays out.
+> **Use the REVISED structure:** [`../sources/discussion-structure-revised.md`](../sources/discussion-structure-revised.md). It supersedes the guide's §6. ¶1 and ¶2 are unchanged; **¶3 and ¶4 are stricter**, and the sample report does **not** fully meet them (see the gap analysis below).
+
+Four paragraphs:
 
 ### ¶1 Findings and the hypothesis
 **Guide says:** restate H₁ → supported or not → key numbers (means + test) → **why** → unexpected results or outliers and their likely effect.
@@ -184,17 +186,45 @@ Four paragraphs, as the guide lays out.
 **Guide says:** same direction? similar size? If different, explain why (modifications, sample, procedure) → support, challenge or partly support the theory, with citations.
 **Sample does:** Same direction. Converts both studies to percentages to compare size: **41% vs 58%** here, **8% vs 22%** in the original. Higher recall is explained by the shorter list and longer display, which may have raised structural recall and shrunk the relative advantage. **"Partly supports"** the model, because only 2 of the 3 levels were tested.
 
-### ¶3 Limitations and improvements
-**Guide says:** **two** limitations (reliability/validity: sample, design, procedure). For each one: its effect on the results + a **specific** modification.
-**Sample does:**
+### ¶3 Limitations and improvements (REVISED: stricter)
+**Required:**
+- **Two specific limitations** of *your* **design, materials or procedure**.
+- **No generic labels.** "Small sample size" or "lack of ecological validity" alone don't count. If you use one, name the **specific cognitive or behavioural mechanism** it affected.
+- **At least one** limitation is about **internal validity or reliability**: ceiling/floor effects, order effects, demand characteristics, or inconsistent testing conditions.
+- For each one, say **how it distorted your specific results**, tied to the **means, spread or outliers from ¶1**.
+- For each one, give a **concrete procedural or material modification** that fixes it.
+
+Each limitation is one chain: **specific flaw → mechanism → visible distortion in *your* numbers → concrete fix**.
+
+**Sample does** (written to the old guide):
 1. Independent measures → participant variables → lower internal validity → **matched pairs** on a baseline recall task, randomly allocated within pairs
 2. One school, a humanities class that may know psychology → demand characteristics + unrepresentative sample → **pre-screen** for familiarity + **random sampling across several schools**
 
-### ¶4 Conclusion and implications
-**Guide says:** a specific conclusion for the sample → generalisable? → justified real-world application → one direction for further research.
-**Sample does:** "For this sample of 34 students aged 16 to 17…" → not confidently generalisable (small, one school, opportunity sample, artificial task) → application: semantic participants recalled ~40% more, so **study by relating new material to prior knowledge rather than colour-coding**, and teachers should set linking tasks → further research: a phonetic condition, realistic material, delayed recall.
+**Gap vs the revised criteria:** limitation 2 names a valid mechanism (demand characteristics), but **neither limitation is tied to the sample's own numbers** (the 0 score, *SD* 2.09 vs 1.48, the overlapping error bars). Limitation 1 is a generic design trade-off rather than something specific to its materials or procedure.
 
-**Watch:** Give each limitation's *consequence* ("this would reduce internal validity because…"), not only the fix.
+**Illustration** (my own, based on the sample's study, to show what meets the bar):
+> *Inconsistent testing conditions (reliability):* the two conditions were run one after the other, so the second group may have heard about the task from the first and tested at a different point in the lesson. This could have inflated or deflated one group's mean independently of processing depth. *Fix:* run both conditions at the same time in the same room, using individual printed booklets so neither group sees the other's questions.
+>
+> *Materials allowed processing to be skipped (internal validity):* structural questions such as "Is this word written in red?" could be answered from the colour alone, without reading the word. A participant who never read some words would recall almost none of them, which fits the structural score of 0, the wider spread (*SD* = 2.09 vs 1.48) and the overlapping error bars. *Fix:* use structural questions that force attention to the letters (e.g., "Does this word contain the letter *a*?"), so every word is at least seen while processing stays shallow.
+
+### ¶4 Conclusion and implications (REVISED: stricter on generalisation)
+**Required:**
+- A **specific conclusion supported by your data**: name the conditions, the DV and the direction, and give numbers if useful.
+- **Generalisation that goes beyond** "the sample was small" or "the task was artificial":
+  - **one real-world situation your task mirrors well**, and
+  - **one situation where extra real-world factors would change the outcome**, naming those factors.
+- A **justified** real-world application or implication.
+- **One** direction for further research.
+
+**Sample does** (written to the old guide): "For this sample of 34 students aged 16 to 17…" → not confidently generalisable (small, one school, opportunity sample, artificial task) → application: semantic participants recalled ~40% more, so **study by relating new material to prior knowledge rather than colour-coding**, and teachers should set linking tasks → further research: a phonetic condition, realistic material, delayed recall.
+
+**Gap vs the revised criteria:** its generalisation is exactly the generic "small, one school, artificial task" move that the revision asks you to go beyond. There is **no mirrored situation** and **no situation where extra factors would change the outcome**.
+
+**Illustration** (my own):
+> *Mirrors well:* learning a short list of new vocabulary from flashcards in one sitting, then being tested minutes later. Brief exposure, single words and immediate free recall closely match the task.
+> *Outcome would change:* revising for an exam weeks away. Long delays, interference from other subjects, connected text rather than isolated words, and motivation or stress could all shrink or enlarge the semantic advantage.
+
+**Watch:** Give each limitation's *consequence in your data*, not only the fix. Check every ¶3/¶4 point against [`../sources/discussion-structure-revised.md`](../sources/discussion-structure-revised.md).
 
 ---
 

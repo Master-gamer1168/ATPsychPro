@@ -41,7 +41,7 @@ The section targets add up to 1,800–2,250, so the **2,200 total cap** is the o
 | 3 | **Introduction** | P1 theory/model (150–200) → P2 anchor study: aim, method, findings, **link to theory** (200–250) → P3 why replicate + each modification + its **category** (150–200) → P4 Aim, IV, DV, H₁ (directional), H₀ |
 | 4 | **Method** | Subheadings in this order: **Design → Participants → Materials → Procedure** |
 | 5 | **Results** | How DV was scored → Table (M, SD per condition) + sentence → Graph (title, labelled axes, undistorted) + sentence → test + why + calculated value + critical value + N + H₀ decision. **No interpretation. No raw data.** |
-| 6 | **Discussion** | ¶1 hypothesis supported? + numbers + why + outliers → ¶2 vs anchor study (direction, size) and theory → ¶3 **two** limitations, each with effect + specific fix → ¶4 conclusion for the sample, generalisability, **real-world application**, further research |
+| 6 | **Discussion** ([REVISED structure](../sources/discussion-structure-revised.md)) | ¶1 hypothesis supported? + numbers + why + outliers → ¶2 vs anchor study (direction, size) and theory → ¶3 **two specific** design/materials/procedure limitations, **≥1 on internal validity or reliability** (ceiling/floor, order effects, demand characteristics, inconsistent conditions), each **tied to your means/spread/outliers** + a **concrete procedural or material fix**; no bare "small sample" or "ecological validity" → ¶4 conclusion supported by the data, generalisation via **one situation the task mirrors well + one where real-world factors change the outcome**, **real-world application**, further research |
 | 7 | **References** | New page, APA 7, alphabetical, 0.5" hanging indent, double-spaced. Every citation ↔ reference |
 | 8 | **Appendices** | A Materials · B Standardized instructions · C Consent form · D Debrief · E Raw data + calculations. Each on a new page, each referenced in the body |
 
@@ -59,4 +59,5 @@ The section targets add up to 1,800–2,250, so the **2,200 total cap** is the o
 - Interpreting in the Results, or putting raw data there
 - An appendix that is never mentioned in the body
 - No justified **real-world implication** in the Discussion
+- *(Revised Discussion)* Generic limitations ("small sample", "not ecologically valid") with no mechanism, limitations not tied to **your own numbers**, no internal-validity or reliability limitation, or generalisation that stops at "small and artificial"
 - Describing the *proposed* sample instead of the *actual* sample

@@ -151,16 +151,31 @@ A [one-tailed] [test] was used because the hypothesis was directional, the desig
 ---
 
 ## Discussion *(600–700 words)*. Workbook: Written Summary of Results; Evaluation
+*Follows the REVISED structure: [`../sources/discussion-structure-revised.md`](../sources/discussion-structure-revised.md)*
 
-**¶1** The research hypothesis, that [EXACT H₁ wording], was [supported / not supported]. Participants in [A] [ ] (*M* = , *SD* = ) than [B] (*M* = , *SD* = ), and a [test] showed [ ] ([symbol] = , critical value = , *N* = , *p* ). [WHY, linked to results.] [Outliers / unexpected results and their likely effect.]
+**¶1 Findings and hypothesis.** The research hypothesis, that [EXACT H₁ wording], was [supported / not supported]. Participants in [A] [ ] (*M* = , *SD* = ) than [B] (*M* = , *SD* = ), and a [test] showed [ ] ([symbol] = , critical value = , *N* = , *p* ). [WHY, linked to results.] [Outliers / unexpected results and their likely effect.] ← ¶3 will point back to these numbers
 
-**¶2** The findings were [in the same / opposite] direction as [anchor] … [Effect size comparison, e.g. converted to %.] [If different: due to modifications / sample / procedure.] The results [support / challenge / partly support] [model] ([citation]) because [ ].
+**¶2 Anchor study and theory.** The findings were [in the same / opposite] direction as [anchor] … [Effect size comparison, e.g. converted to %.] [If different: due to modifications / sample / procedure.] The results [support / challenge / partly support] [model] ([citation]) because [ ].
 
-**¶3** Two limitations should be considered. First, [limitation] meant that [ ]. This would [reduce internal validity / reliability / generalizability] because [ ]. [Specific fix.] Second, [ ] … [effect] … [specific fix].
+**¶3 Limitations and improvements.** Two limitations should be considered.
 
-**¶4** For this sample of [N] [population], [specific conclusion]. Because [limitations], the conclusion [can / cannot confidently] be generalized to [ ]. [Real-world application, justified with a number from your results.] Further research could [one direction].
+Plan each limitation as a chain before writing it:
 
-- [ ] H₁ identical to the Introduction · two limitations, each with effect + fix · a justified application · further research
+| | Limitation 1 (**internal validity / reliability**) | Limitation 2 |
+|---|---|---|
+| Specific flaw in design / materials / procedure | [ceiling/floor · order effects · demand characteristics · inconsistent testing conditions · …] | [ ] |
+| Mechanism (cognitive/behavioural) | [ ] | [ ] |
+| Distortion in OUR results (mean / spread / outlier from ¶1) | [ ] | [ ] |
+| Concrete procedural or material fix | [ ] | [ ] |
+
+First, [specific flaw] meant that [mechanism]. This may explain [specific number/pattern from ¶1, e.g. the outlier, the larger SD, the compressed means], because [ ]. [Concrete fix: what exactly would be changed in the procedure or materials.] Second, [ ] … [mechanism] … [distortion in our data] … [concrete fix].
+*(No bare "small sample" or "lacks ecological validity". If used, name the mechanism.)*
+
+**¶4 Conclusion and implications.** For this sample of [N] [population], [specific conclusion supported by the data: conditions, DV, direction]. The task closely mirrors [real-world situation], because [shared features], so the finding is likely to hold there. However, in [different real-world situation], [additional factors, e.g. delay, interference, motivation, richer material] would likely [reduce / reverse / enlarge] the effect. [Real-world application, justified with a number from your results.] Further research could [one direction].
+
+- [ ] H₁ identical to the Introduction
+- [ ] ¶3: two **specific** limitations · ≥1 internal validity/reliability · each linked to our means/spread/outliers · each with a concrete procedural/material fix · no generic labels
+- [ ] ¶4: conclusion supported by the data · one mirrored situation + one situation where factors would change the outcome · justified application · further research
 
 ---
 

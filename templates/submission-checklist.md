@@ -42,11 +42,18 @@ The guide's own lists (§1, §7, §9) with the section-level requirements from �
 - [ ] Test + why + calculated value + critical value + *N* + H₀ accepted/rejected
 - [ ] No interpretation, no raw data
 
-## Discussion
-- [ ] ¶1 H₁ restated (same wording), supported or not, numbers, why, outliers
-- [ ] ¶2 Comparison with the anchor study (direction + size) and the theory, cited
-- [ ] ¶3 Two limitations, each with its effect + a specific modification
-- [ ] ¶4 Conclusion for the sample, generalisability, **justified real-world implication**, further research
+## Discussion ([REVISED structure](../sources/discussion-structure-revised.md))
+- [ ] ¶1 H₁ restated (same wording), supported or not, numbers (means + test), why, unexpected results/outliers and their effect
+- [ ] ¶2 Comparison with the anchor study (direction + effect size); differences explained by modifications/sample/procedure; support/challenge/partly support the theory, cited
+- [ ] ¶3 Two **specific** limitations of the design, materials or procedure
+- [ ] ¶3 No bare "small sample size" or "lack of ecological validity"; if used, the specific mechanism is explained
+- [ ] ¶3 At least one limitation is about **internal validity or reliability** (ceiling/floor, order effects, demand characteristics, inconsistent testing conditions)
+- [ ] ¶3 Each limitation is linked to how it distorted **our** means, spread or outliers from ¶1
+- [ ] ¶3 Each limitation has a **concrete procedural or material** fix
+- [ ] ¶4 A specific conclusion supported by the data
+- [ ] ¶4 Generalisation: **one real-world situation the task mirrors well** + **one where extra real-world factors would change the outcome**
+- [ ] ¶4 **A justified real-world application/implication**
+- [ ] ¶4 One direction for further research
 
 ## References & appendices
 - [ ] References on a new page, APA 7, alphabetical, hanging indent, double-spaced

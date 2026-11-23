@@ -65,10 +65,18 @@ The per-section lengths are guidance; the 1,800–2,200 total is the rule. Even 
 7. **H₁ is restated word for word** at the start of the Discussion.
 8. **Effect size is compared across studies** by converting both to percentages. Differences are explained by the modifications.
 9. **"Partly supports"** is used where only part of the theory was tested. That is nuanced evaluation.
-10. **Each limitation is a chain: problem → consequence (validity/generalisability) → specific fix.**
+10. **Each limitation is a chain: problem → consequence (validity/generalisability) → specific fix.** Under the revised structure, extend the chain with *→ the distortion visible in your own numbers*. See below.
 11. **The application is tied to a number**: ~40% more recall leads to study advice.
 12. **Appendix E shows the working *and* a cross-check**: hand calculation, an online calculator, and the sum checks (R_A + R_B = N(N+1)/2, U_A + U_B = n1n2).
 13. **Separate debriefs per condition**, each telling participants which condition they were in.
+
+## ⚠️ The sample's Discussion ¶3–¶4 predate the REVISED structure
+
+The sample was written to the original guide. Against the [revised Discussion structure](../sources/discussion-structure-revised.md):
+- **¶3:** its limitations are not tied to its own results (the 0 score, the larger structural *SD*, the overlapping error bars). Limitation 1 is a generic design trade-off rather than a specific flaw in its materials or procedure.
+- **¶4:** its generalisation is the "small, one school, artificial task" move the revision asks you to go beyond. It names no mirrored real-world situation and no situation where extra factors would change the outcome.
+
+So copy its ¶1 and ¶2, and use [`02-section-by-section.md` §6](02-section-by-section.md#6-discussion-600700-words) for ¶3 and ¶4. That section includes worked illustrations.
 
 ## Small things to notice (so you don't copy them blindly)
 

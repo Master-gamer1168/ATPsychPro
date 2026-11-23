@@ -25,6 +25,7 @@ README.md
 sources/                                  ← the two original documents, banked
   guide-how-to-write-research-report.md     GUIDE, faithful Markdown transcription
   sample-full-research-report.md            SAMPLE report, faithful transcription with images
+  discussion-structure-revised.md           REVISED Discussion structure (authoritative, supersedes guide §6)
   images/                                   figures and screenshots extracted from the sample
   original/                                 untouched .txt and .docx exports from Google Docs
 notes/                                    ← study notes distilled from the sources
@@ -47,7 +48,11 @@ tools/
 | **GUIDE: How to Write Your Research Report** | [link](https://docs.google.com/document/d/1HBH8O52bre5r7kpomWKvJay4BLvj62el635hsU6MlIQ/edit?tab=t.0) | The rules: structure, word counts, what each section must contain, formatting, checklist |
 | **SAMPLE: Full Research Report** | [link](https://docs.google.com/document/d/1ND9DiAuGy_h8F0LgiiGBjAraSy2j2oOeNkKres_yVPM/edit?tab=t.0) | A complete model report: a partial replication of Craik & Tulving (1975) on Levels of Processing, N = 34, Mann-Whitney U |
 
-Both were retrieved on 22 Nov 2026. If your teacher updates either document, re-export it and replace the files in `sources/`.
+| **Discussion structure (REVISED)** | [`sources/discussion-structure-revised.md`](sources/discussion-structure-revised.md) | Provided 23 Nov 2026. **Supersedes the guide's §6.** ¶1–2 are unchanged; ¶3 (limitations) and ¶4 (generalisation) are stricter |
+
+The two Google Docs were retrieved on 22 Nov 2026. If your teacher updates either one, re-export it and replace the files in `sources/`.
+
+> **Precedence:** where they differ, the **revised Discussion structure** overrides the guide and the sample. The sample's Discussion ¶3–¶4 were written to the older criteria, so don't model those two paragraphs on it.
 
 ## The format in 30 seconds
 
@@ -55,6 +60,7 @@ Both were retrieved on 22 Nov 2026. If your teacher updates either document, re-
 - **Write** Intro → Method → *(run study)* → Results → Discussion → Abstract. **Assemble** Title → Abstract → Intro → Method → Results → Discussion → References → Appendices A–E.
 - **Third person, past tense, formal, concise, paragraphs.**
 - The most-missed point: in the Introduction, explain **why** the anchor study's findings support the theory.
+- **Discussion (revised):** limitations must be specific, at least one must be about internal validity or reliability, and each must be tied to *your* means, spread or outliers with a concrete fix. Generalise using one real-world situation the task mirrors and one where real-world factors would change the outcome.
 
 ## Stats helper
 

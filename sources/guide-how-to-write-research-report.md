@@ -180,6 +180,8 @@ Do not include raw data here. Raw scores and step-by-step calculations go in App
 
 ## 6. Discussion (about 600–700 words)
 
+> 🔁 **Editor's note (not part of the original guide):** this section has been **superseded** by [`discussion-structure-revised.md`](discussion-structure-revised.md) (23 Nov 2026). Paragraphs 3 and 4 there are stricter. The original text is kept below for reference.
+
 The Discussion interprets your results and judges what they mean. Write it in paragraphs, following the structure below.
 
 ### Paragraph 1: Your findings and the hypothesis
