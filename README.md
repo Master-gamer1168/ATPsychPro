@@ -18,6 +18,8 @@ Reference material for writing the **AT Psychology group-project research report
 | Check the report before submitting | [`templates/submission-checklist.md`](templates/submission-checklist.md) |
 | Read the original documents | [`sources/`](sources/) |
 | **See OUR study** (effort heuristic replication): design, workbook, open issues | [`study/README.md`](study/README.md) |
+| **Our completed workbook** (pp. 2–10, with remaining FILL IN items) | [`study/workbook-completed.md`](study/workbook-completed.md) |
+| Workbook rubric, abstract/appendix checklists, class schedule | [`sources/workbook-guidance.md`](sources/workbook-guidance.md) |
 | See our data and every computed number | [`study/data/README.md`](study/data/README.md) → [`study/data/RESULTS.md`](study/data/RESULTS.md) |
 
 ## Repository layout
@@ -28,6 +30,7 @@ sources/                                  ← the two original documents, banked
   guide-how-to-write-research-report.md     GUIDE, faithful Markdown transcription
   sample-full-research-report.md            SAMPLE report, faithful transcription with images
   discussion-structure-revised.md           REVISED Discussion structure (authoritative, supersedes guide §6)
+  workbook-guidance.md                      blank workbook's guidance pages: rubric, checklists, schedule
   images/                                   figures and screenshots extracted from the sample
   original/                                 untouched .txt and .docx exports from Google Docs
 notes/                                    ← study notes distilled from the sources
@@ -41,6 +44,7 @@ templates/
   submission-checklist.md                   merged final checklist
 study/                                    ← OUR STUDY (effort heuristic replication, Kruger et al., 2004)
   README.md                                 study profile, modifications, open issues to fix in the workbook
+  workbook-completed.md                     FULL workbook pp. 2–10 filled in (group notes + data sheets)
   workbook-transcription.md                 handwritten workbook, transcribed
   original/Choosing_a_study_workbook.pdf    workbook scan
   data/
@@ -48,6 +52,8 @@ study/                                    ← OUR STUDY (effort heuristic replic
     RESULTS.md                              every computed metric (generated; don't hand-edit)
     raw_data.csv                            transcribed raw data (verified against the PDF)
     analyze.py                              regenerates RESULTS.md
+    make_figure.py                          draws Figure 1 (needs matplotlib)
+    figure1_mean_rating_by_effort.png       Figure 1: APA bar chart, grayscale
     Effort_heuristic_data_collection.pdf    original data sheets
 tools/
   stats.py                                  descriptives + Mann-Whitney U + Wilcoxon, with full working

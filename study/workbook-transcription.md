@@ -2,7 +2,9 @@
 
 > **Source:** [`original/Choosing_a_study_workbook.pdf`](original/Choosing_a_study_workbook.pdf), the group's handwritten workbook (6 scanned pages), added 23 Nov 2026.
 > Transcribed as written, with abbreviations kept. *Printed form text is in italics*; handwriting is plain. `[?]` marks a reading I'm not confident of. ~~Strikethrough~~ marks text crossed out in the original. `[blank]` marks an empty field.
-> This is the **planning** record: some details changed after the pilot (see p. 6). For the reconciled final design, see [`README.md`](README.md).
+> This is the **planning** record: some details changed after the pilot (see p. 6). For the reconciled final design, see [`README.md`](README.md); for the fully completed workbook, see [`workbook-completed.md`](workbook-completed.md).
+>
+> **Confirmed (23 Nov 2026): the rating scale was 1–11** for both likeability and quality. The "1–10" written on p. 6 is a slip.
 
 ---
 
@@ -164,7 +166,7 @@ Two versions (X & Y): version X says the first song took 2 days to make, version
 
 | | |
 |---|---|
-| *Summary of how we measured our DV* | Two rating scales (personal likeability & song quality, 1–10) ↳ after listening to the song |
+| *Summary of how we measured our DV* | Two rating scales (personal likeability & song quality, 1–10 **[correction: the scale was 1–11, confirmed]**) ↳ after listening to the song |
 | *Summary of results* | On average, people would rate… *(unfinished)* |
 | *Interpretation based on hypothesis* | [blank] |
 

@@ -4,9 +4,10 @@ Everything about **our** study in one place: the design as planned in the workbo
 
 | File | What it is |
 |---|---|
+| [`workbook-completed.md`](workbook-completed.md) | **The full workbook (pp. 2–10) filled in** from the group's notes and the data sheets, with the remaining ✏️ FILL IN items listed at the end |
 | [`workbook-transcription.md`](workbook-transcription.md) | The handwritten workbook, transcribed page by page |
 | [`original/Choosing_a_study_workbook.pdf`](original/Choosing_a_study_workbook.pdf) | The workbook scan (6 pages) |
-| [`data/`](data/) | Raw data, analysis script and **all computed results** ([`data/RESULTS.md`](data/RESULTS.md)). Start with [`data/README.md`](data/README.md) |
+| [`data/`](data/) | Raw data, analysis script, **all computed results** ([`data/RESULTS.md`](data/RESULTS.md)) and Figure 1 ([`data/figure1_mean_rating_by_effort.png`](data/figure1_mean_rating_by_effort.png)). Start with [`data/README.md`](data/README.md) |
 
 > The guide says the report is written **in class from the workbook and data**. This page shows what the workbook already covers and **what's missing or inconsistent**, so you can fix the workbook before the writing sessions.
 
@@ -54,7 +55,7 @@ The categories are my suggestions against the guide's five; adjust them to your 
 ## ⚠️ Inconsistencies and gaps to resolve before writing
 
 1. **Hypothesis wording is out of date.** H₁/H₀ (p. 3) and the IV definition (p. 2) still say **20 hrs vs 2 hrs**, but the pilot changed this to **1 week vs 2 days**, and the data uses 1 week / 2 days. Update the workbook. The guide requires the hypothesis to be worded identically in the Abstract, Introduction and Discussion.
-2. **Rating scale: 1–11 or 1–10?** Pages 2 and 3 say 1–11; the p. 6 summary says 1–10. Check the actual answer sheet. (No 10s or 11s were given, so the ceiling-effect conclusion is the same either way.)
+2. ✅ **Resolved: the rating scale was 1–11** (confirmed 23 Nov 2026). The "1–10" on p. 6 was a slip.
 3. **Experiment 1 vs Experiment 2.** The anchor is Experiment 1, which was **between-subjects**. The design rationale says "very similar to experiment 2". In the report, keep the anchor as Experiment 1 and present repeated measures as a **modification** (see the table above).
 4. **What does each data sheet represent?** The workbook says answer-sheet versions X/Y were handed out **alternately within each advisory**, and that play order was varied. But each data sheet has one fixed label assignment (sheets 1/4: SoR = 1 week; sheets 2/3: CYFI = 1 week). Record which **advisory**, which **version (X/Y)** and which **song played first** each sheet corresponds to. This matters for the Procedure section and for testing order effects.
 5. **Actual sample characteristics missing.** You need age range, gender split, N per advisory, and how many AT Psych students were excluded, for the Participants section. The target was about 40 participants; the data has 32.
