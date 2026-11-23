@@ -6,7 +6,7 @@ Everything about **our** study in one place: the design as planned in the workbo
 |---|---|
 | [`workbook-completed.md`](workbook-completed.md) | **The full workbook (pp. 2–10) filled in** from the group's notes and the data sheets, with the remaining ✏️ FILL IN items listed at the end |
 | [`workbook-transcription.md`](workbook-transcription.md) | The handwritten workbook, transcribed page by page |
-| [`project-schedule.html`](project-schedule.html) | Our master schedule on the A/C dates: what was done at each milestone, testing on Nov 13 and Nov 20, and what's coming up. Uploaded as a Google Doc ("Master Schedule – Effort Heuristic Replication (Block A1)") |
+| [`collaboration-journal.html`](collaboration-journal.html) | Leonard's collaboration journal in its original format, Sessions 1–6 filled from the A/C master schedule and what the group did (testing on Nov 13 and Nov 20). Uploaded as a Google Doc ("[Roi, Leonard] COLLABORATION JOURNAL - ATP (completed draft)"). "Assigned To Me" details and checkboxes are left for Leonard |
 | [`original/Choosing_a_study_workbook.pdf`](original/Choosing_a_study_workbook.pdf) | The workbook scan (6 pages) |
 | [`data/`](data/) | Raw data, analysis script, **all computed results** ([`data/RESULTS.md`](data/RESULTS.md)) and Figure 1 ([`data/figure1_mean_rating_by_effort.png`](data/figure1_mean_rating_by_effort.png)). Start with [`data/README.md`](data/README.md) |
 
