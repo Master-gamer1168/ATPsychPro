@@ -17,7 +17,8 @@ Reference material for writing the **AT Psychology group-project research report
 | Plan your own report section by section | [`templates/report-skeleton.md`](templates/report-skeleton.md) |
 | Check the report before submitting | [`templates/submission-checklist.md`](templates/submission-checklist.md) |
 | Read the original documents | [`sources/`](sources/) |
-| **See our study's data and results** (effort heuristic) | [`data/effort-heuristic/`](data/effort-heuristic/): start with its README, all numbers are in [`RESULTS.md`](data/effort-heuristic/RESULTS.md) |
+| **See OUR study** (effort heuristic replication): design, workbook, open issues | [`study/README.md`](study/README.md) |
+| See our data and every computed number | [`study/data/README.md`](study/data/README.md) → [`study/data/RESULTS.md`](study/data/RESULTS.md) |
 
 ## Repository layout
 
@@ -38,9 +39,12 @@ notes/                                    ← study notes distilled from the sou
 templates/
   report-skeleton.md                        fill-in planner with sentence starters per section
   submission-checklist.md                   merged final checklist
-data/
-  effort-heuristic/                         ← OUR STUDY'S DATA (effort heuristic, N = 32)
-    README.md                               design, headline numbers, reporting sentences, Discussion hooks
+study/                                    ← OUR STUDY (effort heuristic replication, Kruger et al., 2004)
+  README.md                                 study profile, modifications, open issues to fix in the workbook
+  workbook-transcription.md                 handwritten workbook, transcribed
+  original/Choosing_a_study_workbook.pdf    workbook scan
+  data/
+    README.md                               headline numbers, reporting sentences, Discussion hooks
     RESULTS.md                              every computed metric (generated; don't hand-edit)
     raw_data.csv                            transcribed raw data (verified against the PDF)
     analyze.py                              regenerates RESULTS.md
